@@ -1,0 +1,19 @@
+body {
+    font-family: 'raleway', sans-serif;
+    margin: 2.5rem auto;
+    max-width: 40rem;
+    line-height: 1.6;
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #DD5;
+    background: #37A;
+    padding: 0 1rem;
+}
+
+h1, h2, h3 {
+    line-height: 1.2
+}
+
+a:link, a:visited {
+    color: #E85;
+}
